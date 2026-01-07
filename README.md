@@ -11,8 +11,7 @@
 ---
 
 <p align="center">
-  <img src="images/Nova_Icon.png" alt="Sharpen Client Logo" width="200"/>
-</p>
+  <img src="sharpen_logo.png" alt="Sharpen Client Logo" width="220"/>
 
 # Sharpen Client  
 ### Advanced MITM Utility for Minecraft Bedrock (Fork of Nova Client)
