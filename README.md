@@ -1,37 +1,52 @@
+> ⚠️ **Notice**
+>
+> **Sharpen Client** is a **modified fork** of Nova Client.
+>
+> Original project by **TeamNovaMC / RadiantByte**  
+> Licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+>
+> This fork includes UI, layout, and branding-related modifications.
+> The original Nova Client authors do **not** provide support for Sharpen Client.
+
+---
+
 <p align="center">
-  <img src="images/Nova_Icon.png" alt="Nova Client Logo" width="200"/>
+  <img src="images/Nova_Icon.png" alt="Sharpen Client Logo" width="200"/>
 </p>
 
-# Nova Client: Advanced MITM Utility for Minecraft Bedrock
+# Sharpen Client  
+### Advanced MITM Utility for Minecraft Bedrock (Fork of Nova Client)
 
-**Nova Client** is a powerful open-source utility client designed for **Minecraft Bedrock Edition**. It leverages a sophisticated **MITM (Man-in-the-Middle)** approach to deliver advanced gameplay enhancements and utilities — **without modifying the game's memory or requiring root access.**
+**Sharpen Client** is a modified, open-source utility client based on **Nova Client**, designed for **Minecraft Bedrock Edition**.  
+It uses a **MITM (Man-in-the-Middle)** approach to provide advanced gameplay utilities and enhancements — **without modifying game memory or requiring root access**.
 
 ---
 
 ## 🙏 Acknowledgements
 
-Special thanks to [一剪沐橙](https://github.com/mucute-qwq) — this project would not have been possible without her contributions.
+Special thanks to **TeamNovaMC / RadiantByte** and  
+[一剪沐橙](https://github.com/mucute-qwq) for their original work and contributions that made this project possible.
 
 ---
 
 ## ⚡ Features
 
-- **Non-Intrusive Enhancement**: Works seamlessly without altering the Minecraft client, keeping your installation clean and secure.
-- **Advanced Packet Manipulation**: Provides comprehensive control over packet-level data for enhanced gameplay.
-- **Dual GUI System**: Choose between Classic, Nova, and ClickGUI themes for your preferred user experience.
-- **Extensive Module Library**: Wide range of utilities including combat, motion, visual, particle, effects, and miscellaneous enhancements.
-- **Real-Time Configuration**: Live adjustment of module settings without restarting the game.
-- **Smooth Performance**: Optimized for stable connections and minimal latency.
-- **Modern UI Design**: Clean, intuitive interface built specifically for mobile usability.
-- **Cross-Platform MITM Support**: Compatible with all **Minecraft Bedrock Edition** platforms through Android MITM control.
+- **Non-Intrusive Enhancements** – Works externally via MITM, keeping the Minecraft client untouched.
+- **Packet-Level Control** – Advanced packet interception and manipulation.
+- **Multiple GUI Systems** – Classic, Nova-style, and ClickGUI interfaces.
+- **Extensive Module Library** – Combat, motion, visual, particle, effects, and miscellaneous utilities.
+- **Live Configuration** – Change module settings in real time without restarting.
+- **Optimized Performance** – Smooth experience with minimal latency.
+- **Modern Mobile UI** – Clean, fast, and touch-friendly interface.
+- **Cross-Platform MITM Support** – Works with all Minecraft Bedrock platforms via Android MITM control.
 
 ---
 
 ## 📱 Platform Support
 
-Nova Client supports all **Minecraft Bedrock Edition platforms** through MITM interception:
+Sharpen Client supports **Minecraft Bedrock Edition** platforms through MITM interception:
 
-- **Android** (Primary platform)
+- **Android** (Primary)
 - **iOS**
 - **Windows 10 & 11**
 - **Nintendo Switch**
@@ -42,80 +57,80 @@ Nova Client supports all **Minecraft Bedrock Edition platforms** through MITM in
 
 ## 🎮 Module Categories
 
-Nova Client includes comprehensive modules organized into categories:
+Modules are organized into clear categories:
 
-- **Combat**: Enhanced PvP capabilities and combat utilities
-- **Motion**: Movement enhancements and mobility features
-- **Visual**: Rendering improvements and visual aids
-- **Misc**: Miscellaneous utilities and quality-of-life features
+- **Combat** – PvP and combat-related utilities  
+- **Motion** – Movement and mobility enhancements  
+- **Visual** – Rendering and visual assistance  
+- **Misc** – Quality-of-life and additional utilities  
 
 ---
 
 ## 🎨 GUI Themes
 
-Choose between three distinct interface themes:
+Choose from multiple interface styles:
 
-- **Classic Theme**: Traditional, familiar interface design
-- **Nova Theme**: Modern glassmorphism design with animations and enhanced visuals
-- **ClickGUI Theme**: Compact, clickable interface optimized for quick access
+- **Classic Theme** – Simple and traditional layout  
+- **Nova Theme** – Modern glassmorphism UI with animations  
+- **ClickGUI Theme** – Compact and fast clickable interface  
 
 ---
 
-## License
+## 📜 License
 
-Nova Client is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+Sharpen Client is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 ### ✅ Permitted Uses
-
-- Personal use and modification.
-- Creating content (e.g., videos or showcases) using Nova Client.
-- Redistributing the original or modified source code, provided you include the same GPLv3 license and make the source code available.
+- Personal use and modification  
+- Forking and redistributing the source code  
+- Sharing modified versions **with full source code and GPLv3 license included**
 
 ### ❌ Prohibited Uses
+- Distributing modified versions **without source code**
+- Removing copyright notices or license text
+- Claiming original ownership of Nova Client
 
-- Distributing modified versions **without** including source code and the GPLv3 license.
-- Claiming ownership of the project or its original source code.
-
-For full license information, visit:  
-[https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Full license text:  
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ---
 
-## Disclaimer of Warranty
+## ⚠️ Disclaimer of Warranty
 
-This program is distributed under the terms of the GNU General Public License, version 3 (GPLv3).  
-It is provided "AS IS", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+This software is provided **“AS IS”**, without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement.
 
-## Limitation of Liability
+---
 
-In no event shall the author(s) or copyright holder(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+## ⚠️ Limitation of Liability
 
-## Intended Use
+In no event shall the authors or copyright holders be liable for any damages or claims arising from the use or misuse of this software.
 
-This software is intended solely for educational and research purposes.  
-Any use of this program that violates applicable laws, terms of service, or causes harm to others is strictly unintended and the responsibility of the user.
+---
+
+## 🎯 Intended Use
+
+This project is intended for **educational and research purposes only**.  
+Any use that violates game terms of service, server rules, or local laws is **entirely the responsibility of the user**.
 
 ---
 
 ## 🤝 Contributions
 
-We welcome and appreciate contributions from the community!  
-Whether it's code, bug reports, suggestions, or documentation — every contribution helps improve **Nova Client**.
+Contributions are welcome!  
+Bug reports, suggestions, documentation improvements, and code contributions help improve **Sharpen Client**.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Legal Disclaimer
 
-Nova Client is not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team.
+Sharpen Client is **not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team**.
 
-Use Nova Client at your **own risk**.  
-We are **not responsible** for any bans, penalties, or issues that may result from using this client.
-
-**Always follow server rules and respect community standards.**
+Use this client **at your own risk**.  
+The developers are **not responsible** for bans, penalties, or other consequences.
 
 ---
 
 ## 💬 Community & Support
 
-Join our Discord to connect with other users, get support, and share ideas:  
-[discord.gg/wGxdgADCbZ](https://discord.gg/wGxdgADCbZ)
+Community support and discussion:  
+https://discord.gg/wGxdgADCbZ
